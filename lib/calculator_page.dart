@@ -6,7 +6,7 @@ class CalculatorPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Calculator Page'),
+        title: Text('Calculator'),
       ),
       body: Center(
         child: CalculatorScreen(),
